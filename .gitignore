@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.rock-paper-scissors/.idea/.gitignore
+/.idea/.idea.rock-paper-scissors/.idea/encodings.xml
+/.idea/.idea.rock-paper-scissors/.idea/indexLayout.xml
+/.idea/.idea.rock-paper-scissors/.idea/vcs.xml
